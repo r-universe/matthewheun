@@ -13,3 +13,8 @@
 	url = https://github.com/matthewheun/matsindf
 	shallow = true
 	registered = true
+[submodule "RCLabels"]
+	path = RCLabels
+	url = https://github.com/matthewheun/rclabels
+	shallow = true
+	registered = true

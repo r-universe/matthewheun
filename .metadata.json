@@ -6,5 +6,9 @@
   {
     "package": "matsindf",
     "oncran": true
+  },
+  {
+    "package": "RCLabels",
+    "oncran": true
   }
 ]
