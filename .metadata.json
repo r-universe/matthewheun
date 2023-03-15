@@ -1,10 +1,10 @@
 [
   {
-    "package": "matsindf",
+    "package": "matsbyname",
     "oncran": true
   },
   {
-    "package": "matsbyname",
+    "package": "matsindf",
     "oncran": true
   }
 ]

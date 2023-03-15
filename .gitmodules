@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "matsindf"]
-	path = matsindf
-	url = https://github.com/matthewheun/matsindf
-	shallow = true
-	registered = true
 [submodule "matsbyname"]
 	path = matsbyname
 	url = https://github.com/matthewheun/matsbyname
+	shallow = true
+	registered = true
+[submodule "matsindf"]
+	path = matsindf
+	url = https://github.com/matthewheun/matsindf
 	shallow = true
 	registered = true
