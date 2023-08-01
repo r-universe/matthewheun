@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RCLabels"]
+	path = RCLabels
+	url = https://github.com/matthewheun/rclabels
 [submodule "matsbyname"]
 	path = matsbyname
 	url = https://github.com/matthewheun/matsbyname
 [submodule "matsindf"]
 	path = matsindf
 	url = https://github.com/matthewheun/matsindf
-[submodule "RCLabels"]
-	path = RCLabels
-	url = https://github.com/matthewheun/rclabels
